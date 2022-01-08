@@ -1,4 +1,6 @@
 # Pyrebase
+Python knižnica pre firebase google databázu. Veľmi vhodné pre odosielanie spracovaných dát v RPI do firebase google databázy.
+S touto firebase Databázou vedia pracovať aj android aplikácie. Je to jedná z možností ako interagovať medzi Android aplikáciou a Rasbery PI po internete.
 
 A simple python wrapper for the [Firebase API](https://firebase.google.com).
 
